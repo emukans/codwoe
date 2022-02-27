@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+venv/
+.tb/
+.idea/
+data/*
+logs/
+#*.json
+*.pt
+*.zip
+scores/*
+!scores/.gitkeep
+spm_model_*
+.DS_Store
